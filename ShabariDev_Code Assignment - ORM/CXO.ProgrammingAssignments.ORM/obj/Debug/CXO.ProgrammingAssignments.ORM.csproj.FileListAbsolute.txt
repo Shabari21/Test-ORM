@@ -1,0 +1,16 @@
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM\bin\Debug\CXO.ProgrammingAssignments.ORM.dll
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM\bin\Debug\CXO.ProgrammingAssignments.ORM.pdb
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.dll
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.pdb
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM\obj\Debug\CXO.ProgrammingAssignments.ORM.csprojResolveAssemblyReference.cache
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM\obj\Debug\CXO.ProgrammingAssignments.ORM.dll
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM\obj\Debug\CXO.ProgrammingAssignments.ORM.pdb
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM\bin\Debug\CXO.ProgrammingAssignments.ORM.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM\bin\Debug\CXO.ProgrammingAssignments.ORM.pdb
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.pdb
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM\obj\Debug\CXO.ProgrammingAssignments.ORM.csprojAssemblyReference.cache
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM\obj\Debug\CXO.ProgrammingAssignments.ORM.csproj.CoreCompileInputs.cache
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM\obj\Debug\CXO.ProgrammingAssignments.ORM.csproj.CopyComplete
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM\obj\Debug\CXO.ProgrammingAssignments.ORM.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM\obj\Debug\CXO.ProgrammingAssignments.ORM.pdb

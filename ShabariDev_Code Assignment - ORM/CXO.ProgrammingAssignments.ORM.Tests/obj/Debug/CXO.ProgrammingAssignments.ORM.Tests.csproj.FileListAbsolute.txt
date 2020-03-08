@@ -1,0 +1,43 @@
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Tests.dll
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Tests.pdb
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.dll
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.dll
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.pdb
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.pdb
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.csprojResolveAssemblyReference.cache
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.dll
+c:\users\ashipilov\documents\visual studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.pdb
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Tests.dll
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Tests.pdb
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.dll
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.dll
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.pdb
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.pdb
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.dll
+C:\Users\ashipilov\Dropbox (CXO Solutions)\CXO Development\CodeAssignments\ORM\Public\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.pdb
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Tests.dll.config
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Tests.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Tests.pdb
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\Castle.Core.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\Moq.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.pdb
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\CXO.ProgrammingAssignments.ORM.pdb
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\Castle.Core.xml
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\Moq.xml
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.csprojAssemblyReference.cache
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.csproj.CoreCompileInputs.cache
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.csproj.CopyComplete
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Tests\obj\Debug\CXO.ProgrammingAssignments.ORM.Tests.pdb

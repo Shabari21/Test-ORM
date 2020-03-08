@@ -1,0 +1,11 @@
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Interfaces\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.dll
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Interfaces\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.pdb
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Interfaces\obj\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Interfaces\obj\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.dll
+C:\Users\ashipilov\Documents\Visual Studio 2015\Projects\CXO.ProgrammingAssignments.Orm\CXO.ProgrammingAssignments.ORM.Interfaces\obj\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.pdb
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Interfaces\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Interfaces\bin\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.pdb
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Interfaces\obj\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.csprojAssemblyReference.cache
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Interfaces\obj\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.csproj.CoreCompileInputs.cache
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Interfaces\obj\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.dll
+D:\Users\sandanan\Downloads\Shabari\OneDrive_2020-03-02\Coding Assessment\Code Assignment - ORM\CXO.ProgrammingAssignments.ORM.Interfaces\obj\Debug\CXO.ProgrammingAssignments.ORM.Interfaces.pdb
